@@ -1,7 +1,7 @@
 # AI-Studio-项目标题
 
 ## 项目描述
-简要描述项目
+wechaty+ernie
 
 ## 项目结构
 ```
@@ -12,4 +12,4 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-B：此处由项目作者进行撰写使用方式。
+B：具体查看ipynb。
